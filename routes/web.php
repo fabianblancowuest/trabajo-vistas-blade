@@ -23,6 +23,11 @@ Route::get('/productos', function () {
             'precio' => 3200,
             'stock' => 0,
         ],
+        [
+            'nombre' => 'Café molido',
+            'precio' => 6500,
+            'stock' => 0,
+        ],
     ];
 
     return view('productos', [
