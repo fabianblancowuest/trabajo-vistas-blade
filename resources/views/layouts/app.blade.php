@@ -71,7 +71,7 @@
 
 <body>
     <header>
-        <h1>Mi sitio Laravel</h1>
+        <h1>Mi tienda online</h1>
         <nav>
             <a href="/">Inicio</a>
             <a href="/productos">Productos</a>
